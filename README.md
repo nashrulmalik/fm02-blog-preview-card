@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/nashrulmalik/fm02-blog-preview-card)
-- Live Site URL: [Add live site URL here](https://nashrulmalik.github.io/fm02-blog-preview-card/)
+- Solution URL: [This Github](https://github.com/nashrulmalik/fm02-blog-preview-card)
+- Live Site URL: [Live Site](https://nashrulmalik.github.io/fm02-blog-preview-card/)
 
 ## My process
 
